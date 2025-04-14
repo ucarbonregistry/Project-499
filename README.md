@@ -34,40 +34,86 @@ include in the project activity are given in the table below.
 
 Sr No./ HTSC No./ No of WEGs /Connected Date of Commissioning
 __________
-1 /3914/ 01/ 29/09/11
+1 /3914/ 01/ 29/09/2011
 ____________
-2/ 3915/ 01 /29/09/11
+2/ 3915/ 01 /29/09/2011
 _______
-3/ 3916/ 01/ 29/09/11
+3/ 3916/ 01/ 29/09/2011
 __________
-4 /3917/ 01/ 29/09/11
+4 /3917/ 01/ 29/09/2011
 ________
-5 /3918 /01 /29/09/11
+5 /3918 /01 /29/09/2011
 __________
-6 /3919/ 01/ 29/09/11
+6 /3919/ 01/ 29/09/2011
 ________
-7 /3920/ 01/ 29/09/11
+7 /3920/ 01/ 29/09/2011
 ________
-8 /3921/ 01/ 29/09/11
+8 /3921/ 01/ 29/09/2011
 _________
-9 /3947/ 01/ 30/09/11
+9 /3947/ 01/ 30/09/2011
 ________
-10 /3948/ 01/ 30/09/11
+10 /3948/ 01/ 30/09/2011
 __________
-11 /3949/ 01/ 30/09/11
+11 /3949/ 01/ 30/09/2011
 __________
-12 /3954/ 01/ 07/10/11
+12 /3954/ 01/ 07/10/2011
 ___________
-13 /3955 /01 /07/10/11
+13 /3955 /01 /07/10/2011
 _________
-14/ 3957/ 01 /20/10/11
+14/ 3957/ 01 /20/10/2011
 ____
-15/ 3959/ 01/ 21/10/11
+15/ 3959/ 01/ 21/10/2011
 ___________
-16 /3981 /01/ 28/12/11
+16 /3981 /01/ 28/12/2011
 ____
-17/ 3986/ 01/ 10/01/12
+17/ 3986/ 01/ 10/01/2012
 _______
-18/ 3999/ 01 /31/01/12 
+18/ 3999/ 01 /31/01/2012 
 ___________
+PRIOR HISTORY
 
+Project 7537 : Clean Energy Project in the State of Tamil Nadu
+
+Methodologies Used	ACM0002 ver. 13 - Consolidated baseline methodology for grid-connected electricity generation from renewable sources
+
+Standardized baselines used	N/A
+
+Amount of Reductions	27,546 metric tonnes CO2 equivalent per annum
+
+Registration Date	06 Dec 12 (Date of registration action 22 Feb 13)   
+
+Crediting Period	06 Dec 12 - 05 Dec 22 (Fixed)
+_______________
+Requests for Issuance and related documentation	
+_________
+Monitoring report: 06 Dec 2012 - 05 Jun 2013 
+
+Issuance request state: Issued
+
+CERs requested up to 31 December 2012: 462
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 7143
+
+Serial Range: Block start: IN-5-205093342-1-1-0-7537----Block end: IN-5-205093803-1-1-0-7537
+
+Serial Range: Block start: IN-5-205093804-2-2-0-7537 ---- Block end: IN-5-205100946-2-2-0-7537
+_________________
+
+Monitoring report: 06 Jun 2013 - 31 Dec 2017 
+
+Issuance request state: Issued
+
+CERs requested from 01 Jan 2013 until 31 December 2020: 132168
+
+Serial Range: Block start: IN-5-326020908-2-2-0-7537  ----    Block end: IN-5-326153075-2-2-0-7537
+___________________
+
+Monitoring report: 01 Jan 2018 - 31 Dec 2020
+
+Issuance request state: Awaiting issuance request
+____________________
+
+Monitoring report: 01 Jan 2021 - 05 Dec 2022
+
+Issuance request state: Awaiting issuance request
+___________________
