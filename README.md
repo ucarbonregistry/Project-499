@@ -113,6 +113,27 @@ Monitoring report: 01 Jan 2018 - 31 Dec 2020
 Issuance request state: Awaiting issuance request
 ____________________
 
+UCR ISSUANCE
+
+MP-01 : 01/01/2023-31/12/2024
+
+ISSUANCE DATE: 21/08/2025
+
+QTY: 45673
+____________
+Serial Number: 0001-000001-025600-UCR-CoU-IN-499-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 25600
+_________
+Serial Number: 0001-027656-045673-UCR-CoU-IN-499-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 20073
+___________
+
 Monitoring report: 01 Jan 2021 - 05 Dec 2022
 
 Issuance request state: Awaiting issuance request
