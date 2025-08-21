@@ -112,6 +112,10 @@ Monitoring report: 01 Jan 2018 - 31 Dec 2020
 
 Issuance request state: Awaiting issuance request
 ____________________
+Monitoring report: 01 Jan 2021 - 05 Dec 2022
+
+Issuance request state: Awaiting issuance request
+___________________
 
 UCR ISSUANCE
 
@@ -134,7 +138,3 @@ Vintage Year: 2024
 Quantity: 20073
 ___________
 
-Monitoring report: 01 Jan 2021 - 05 Dec 2022
-
-Issuance request state: Awaiting issuance request
-___________________
